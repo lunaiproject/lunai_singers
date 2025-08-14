@@ -1,0 +1,228 @@
+Terms of Use for LUNAI Project Voice Models
+(Last updated: 08.08.2025)
+
+1. General Provisions
+1.1. Voice models and characters of LUNAI Project are intellectual property of the project and their rights holders (voice providers, artists, developers).
+1.2. Use of voice models is permitted only in compliance with this agreement. Violation of the rules may result in restricted access to our resources and legal liability.
+
+2. Permitted Use
+2.1. Non-commercial use:
+- Creation of covers, original songs, fanart, animations, and other creative works is allowed provided that the voice model is credited in the format:
+"Character Name" from LUNAI Project
+(e.g.: Llane Crow from LUNAI Project).
+2.2. Commercial use:
+- Written permission from LUNAI Project team is required. To request permission:
+1. Send an email to: lunaiproject@gmail.com
+ or
+2. Contact our Telegram bot: https://t.me/lunai_team_bot
+
+Your request must include:
+1. Character name (e.g., Llane Crow).
+2. Project description (song lyrics/script where the model will be used).
+3. Purpose of use (e.g., YouTube monetization, track sales).
+The request will be processed within 7 business days.
+
+2.3. 18+ content guidelines:
+- Creation of 18+ restricted content is allowed only for the following characters:
+Llane Crow, Keiro, Nero, Amaboshi Cipher, Liam Thorne, Karasu Yuutsukoe, Kuro Bousuku, Albus Korde, Gahata Meiji, Allen Crow, Ohne Kuno.
+
+Strictly prohibited:
+1. Violence and cruelty:
+ - Realistic depictions of bloodshed, dismemberment, or torture.
+ - Graphic scenes of physical/psychological abuse.
+ - Promotion of self-harm or suicide.
+2. Socially harmful content:
+ - Racist, xenophobic, or discriminatory materials.
+ - Promotion of extremist ideologies.
+ - Content justifying violence or crimes against humanity.
+3. Characters and project reputation:
+ - Depicting characters in humiliating or degrading situations.
+ - Scenes contradicting established character lore.
+ - Using project symbolism in illegal activities.
+
+LUNAI Project team reserves the exclusive right to determine what materials constitute violations of these rules, including cases not explicitly described in this document.
+
+3. Prohibited Actions
+3.1. Voice model usage:
+- Porting models to other engines (e.g., RVC, Character.AI, UTAU) or modifying them.
+- Training third-party AI models using derived audio files or LUNAI Project's original datasets.
+- Creating or distributing "voice packs" (including remix samples).
+- Using models for fake statements or fraudulent activities.
+3.2. Content restrictions:
+- Prohibited:
+- Racism, xenophobia, incitement to violence.
+- Discrediting real individuals or organizations.
+- Using characters in illegal activities (e.g., deepfake).
+3.3. Technical prohibitions:
+- Reverse engineering, decompiling, or bypassing voice model protections.
+- Distributing models or their copies.
+
+4. Special Conditions for Voice Providers
+4.1. Voice providers retain rights to their voice data. LUNAI Project uses them only under signed agreements.
+4.2. Using voice providers' recordings for purposes unrelated to the project (e.g., training third-party models without permission) is prohibited.
+
+5. Liability and Support
+5.1. LUNAI Project is not responsible for:
+- Quality of user-created content.
+- Rule violations by third parties (e.g., unauthorized model distribution).
+- Legal consequences arising from users' infringement of third-party rights.
+5.2. For dispute resolution, please contact us.
+
+6. Final Provisions
+6.1. These rules may be updated. The current version is always available at: https://lunaiproject.github.io/termsofuse/
+6.2. Using voice models implies agreement with these terms.
+6.3. Final interpretation of these rules and violation assessments are made exclusively by LUNAI Project team.
+
+---
+
+Правила и условия использования голосовых моделей LUNAI Project
+(Последнее обновление: 08.08.2025)
+
+1. Основные положения
+1.1. Голосовые модели и персонажи LUNAI Project являются интеллектуальной собственностью проекта и их правообладателей (голосовых провайдеров, художников, разработчиков).
+1.2. Использование голосовых моделей разрешено только с соблюдением условий данного соглашения. Нарушение правил может привести к ограничению доступа к нашим ресурсам и привлечению к ответственности.
+
+2. Разрешенное использование
+2.1. Некоммерческое использование:
+- Разрешено создание каверов, оригинальных песен, фанартов, анимаций и других творческих работ при условии указания используемой голосовой модели в формате:
+«Имя персонажа» от LUNAI Project
+(например: Llane Crow от LUNAI Project).
+2.2. Коммерческое использование:
+- Требуется письменное разрешение команды LUNAI Project. Для получения разрешения необходимо:
+1. Отправить запрос на email: lunaiproject@gmail.com
+ или
+2. Написать в Telegram-бот: https://t.me/lunai_team_bot
+
+В запросе укажите:
+1. Используемого персонажа (например, Llane Crow).
+2. Описание проекта (текст песни/сценарий, где будет использоваться модель).
+3. Цель использования (например, монетизация на YouTube, продажа трека).
+Запрос будет рассмотрен в течение 7 рабочих дней.
+
+2.3. Условия для 18+ контента:
+- Создание контента с возрастным ограничением 18+ разрешено только для следующих персонажей:
+Llane Crow, Keiro, Nero, Amaboshi Cipher, Liam Thorne, Karasu Yuutsukoe, Kuro Bousuku, Albus Korde, Gahata Meiji, Allen Crow, Ohne Kuno.
+
+Категорически запрещено:
+1. Насилие и жестокость:
+ - Реалистичное изображение кровопролития, расчленения или пыток.
+ - Сцены физического/психологического насилия в графической форме.
+ - Пропаганда саморазрушительного поведения (селфхарм, суицид).
+2. Социально-опасный контент:
+ - Расистские, ксенофобные или дискриминационные материалы.
+ - Пропаганда экстремистских идеологий.
+ - Контент, оправдывающий насилие или преступления против человечности.
+3. Персонажи и репутация проекта:
+ - Изображение персонажей в унизительном или деградирующем виде.
+ - Сцены, противоречащие установленному лору персонажей.
+ - Использование символики проекта в незаконной деятельности.
+
+Команда LUNAI Project оставляет за собой исключительное право определять, какие материалы считаются нарушением данных правил, включая случаи, не описанные явно в данном документе.
+
+3. Запрещенные действия
+3.1. Использование голосовых моделей:
+- Перенос моделей в другие движки (например, RVC, Character.AI, UTAU) или их модификация.
+- Обучение сторонних ИИ-моделей на производных аудиофайлах или исходных данных (датасетах) LUNAI Project.
+- Создание и распространение «голосовых пакетов» (включая сэмплы для remix).
+- Использование моделей для создания фейковых заявлений или мошеннических действий.
+3.2. Контентные ограничения:
+- Запрещены:
+- Расизм, ксенофобия, призывы к насилию.
+- Дискредитация реальных лиц или организаций.
+- Использование персонажей в незаконной деятельности (например, deepfake).
+3.3. Технические запреты:
+- Реверс-инжиниринг, декомпиляция или попытки обхода защиты голосовых моделей.
+- Распространение моделей или их копий.
+
+4. Особые условия для голосовых провайдеров
+4.1. Голосовые провайдеры сохраняют права на свои голосовые данные. LUNAI Project использует их только на условиях подписанного соглашения.
+4.2. Запрещено использование записей голосовых провайдеров для целей, не связанных с проектом (например, обучение сторонних моделей без разрешения).
+
+5. Ответственность и поддержка
+5.1. LUNAI Project не несет ответственности за:
+- Качество созданных пользователями произведений.
+- Нарушения правил третьими лицами (например, незаконное распространение моделей).
+- Юридические последствия, возникшие из-за нарушения пользователями авторских прав третьих лиц.
+5.2. Для разрешения спорных ситуаций свяжитесь с нами.
+
+6. Заключительные положения
+6.1. Правила могут обновляться. Актуальная версия всегда доступна на сайте: https://lunaiproject.github.io/termsofuse/
+6.2. Использование голосовых моделей означает согласие с условиями.
+6.3. Окончательная интерпретация данных правил и решение о наличии нарушений осуществляется исключительно командой LUNAI Project.
+
+---
+
+LUNAI Project 音声モデル利用規約
+(最終更新日: 2025年8月8日)
+
+1. 基本条項
+1.1. LUNAI Projectの音声モデルおよびキャラクターは、本プロジェクトおよび権利者（声優プロバイダー、アーティスト、開発者）の知的財産です。
+1.2. 音声モデルの使用は本規約の条件に準拠する場合にのみ許可されます。規則違反はリソースへのアクセス制限や法的責任を招く可能性があります。
+
+2. 許可される使用
+2.1. 非営利目的の使用:
+- 以下のクレジット表記を条件に、カバー曲、オリジナル楽曲、ファンアート、アニメーション等の創作活動が許可されます：
+「キャラクター名」from LUNAI Project
+（例: Llane Crow from LUNAI Project）。
+2.2. 商用利用:
+- LUNAI Projectチームの書面許可が必要です。許可申請方法：
+1. メール送信先: lunaiproject@gmail.com
+ または
+2. Telegramボット: https://t.me/lunai_team_bot
+
+申請には以下を明記してください：
+1. 使用キャラクター（例: Llane Crow）
+2. プロジェクト説明（使用箇所の歌詞/脚本）
+3. 使用目的（例: YouTube収益化、楽曲販売）
+申請は7営業日以内に審査されます。
+
+2.3. 18+コンテンツ条件:
+- 18+指定コンテンツの作成は以下のキャラクターに限り許可されます：
+Llane Crow, Keiro, Nero, Amaboshi Cipher, Liam Thorne, Karasu Yuutsukoe, Kuro Bousuku, Albus Korde, Gahata Meiji, Allen Crow, Ohne Kuno
+
+厳禁事項:
+1. 暴力・残虐表現:
+ - 流血・切断・拷問のリアルな描写
+ - 物理的/精神的虐待のグラフィックな表現
+ - 自傷行為・自殺の助長
+2. 社会的有害コンテンツ:
+ - 人種差別・排外主義・差別的素材
+ - 過激派思想の宣伝
+ - 暴力や人道に対する罪を正当化する内容
+3. キャラクターとプロジェクトの評判:
+ - キャラクターを侮辱・堕落させる描写
+ - 設定に矛盾するシーン
+ - プロジェクトシンボルの違法使用
+
+LUNAI Projectチームは本規約に明記されていない場合も、違反とみなす素材を最終判断する権利を留保します。
+
+3. 禁止行為
+3.1. 音声モデルの使用:
+- 他エンジン（RVC、Character.AI、UTAU等）への移植・改変
+- 派生音声ファイルまたは元データセットを用いた第三者AIモデルの学習
+- 「音声パック」の作成・配布（リミックス用サンプル含む）
+- 虚偽声明や詐欺行為への利用
+3.2. コンテンツ制限:
+- 禁止事項:
+- 人種差別、排外主義、暴力扇動
+- 実在人物・組織の信用毀損
+- 違法行為（ディープフェイク等）へのキャラクター使用
+3.3. 技術的禁止事項:
+- リバースエンジニアリング、逆コンパイル、保護回避の試み
+- モデルまたはそのコピーの配布
+
+4. 声優プロバイダー向け特別条件
+4.1. 声優プロバイダーは自身の音声データに対する権利を保持します。LUNAI Projectは契約条件に基づきのみ使用します。
+4.2. プロジェクト無関係の目的（例: 無許可の第三者モデル学習）での声優録音の使用は禁止です。
+
+5. 責任範囲とサポート
+5.1. LUNAI Projectは以下について責任を負いません:
+- ユーザー作成コンテンツの品質
+- 第三者による規約違反（無許可モデル配布等）
+- ユーザーの第三者権利侵害による法的結果
+5.2. 紛争解決は当方までご連絡ください。
+
+6. 最終条項
+6.1. 本規約は更新される場合があります。最新版は常に以下で公開：https://lunaiproject.github.io/termsofuse/
+6.2. 音声モデルの使用は本規約への同意を意味します。
+6.3. 本規約の最終解釈権および違反判断はLUNAI Projectチームが独占的に有します。
