@@ -1,5 +1,5 @@
 Terms of Use for LUNAI Project Voice Models
-(Last updated: November 21, 2025)
+(Last updated: January 16, 2026)
 
 1. General Provisions
 1.1. Voice models and characters of LUNAI Project are intellectual property of the project and their rights holders (voice providers, artists, developers).
@@ -11,11 +11,7 @@ Terms of Use for LUNAI Project Voice Models
 "Character Name" from LUNAI Project
 (e.g.: Llane Crow from LUNAI Project).
 2.2. Commercial use:
-- Written permission from LUNAI Project team is required. To request permission:
-1. Send an email to: lunaiproject@gmail.com
- or
-2. Contact our Telegram bot: https://t.me/lunai_team_bot
-
+- Written permission from LUNAI Project team is required. To request permission, please send an email to: lunaiproject@gmail.com
 Your request must include:
 1. Character name (e.g., Llane Crow).
 2. Project description (song lyrics/script where the model will be used).
@@ -95,11 +91,7 @@ LUNAI Project team reserves the exclusive right to determine what materials cons
 «Имя персонажа» от LUNAI Project
 (например: Llane Crow от LUNAI Project).
 2.2. Коммерческое использование:
-- Требуется письменное разрешение команды LUNAI Project. Для получения разрешения необходимо:
-1. Отправить запрос на email: lunaiproject@gmail.com
- или
-2. Написать в Telegram-бот: https://t.me/lunai_team_bot
-
+- Требуется письменное разрешение команды LUNAI Project. Для получения разрешения, пожалуйста, отправьте запрос на email: lunaiproject@gmail.com
 В запросе укажите:
 1. Используемого персонажа (например, Llane Crow).
 2. Описание проекта (текст песни/сценарий, где будет использоваться модель).
@@ -179,11 +171,7 @@ LUNAI Project 音声モデル利用規約
 「キャラクター名」from LUNAI Project
 （例: Llane Crow from LUNAI Project）。
 2.2. 商用利用:
-- LUNAI Projectチームの書面許可が必要です。許可申請方法：
-1. メール送信先: lunaiproject@gmail.com
- または
-2. Telegramボット: https://t.me/lunai_team_bot
-
+- LUNAI Projectチームの書面許可が必要です。許可を得るには、lunaiproject@gmail.com までリクエストを送信してください。
 申請には以下を明記してください：
 1. 使用キャラクター（例: Llane Crow）
 2. プロジェクト説明（使用箇所の歌詞/脚本）
@@ -246,4 +234,5 @@ LUNAI Projectチームは本規約に明記されていない場合も、違反�
 6. 最終条項
 6.1. 本規約は更新される場合があります。最新版は常に以下で公開：https://lunaiproject.github.io/termsofuse/
 6.2. 音声モデルの使用は本規約への同意を意味します。
+
 6.3. 本規約の最終解釈権および違反判断はLUNAI Projectチームが独占的に有します。
